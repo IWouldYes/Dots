@@ -1,0 +1,6 @@
+bluetuith
+nmtui
+btop
+yazi
+nvim
+discordo
