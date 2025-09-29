@@ -1,9 +1,21 @@
 {
   "layer": "top",
-  "font": "JetBrainsMono Nerd Font 15",
-  "modules-left": [],
+  "font": "JetBrainsMono Nerd Font 12",
+  "modules-left": ["hyprland/workspaces"],
   "modules-center": [],
   "modules-right": [],
 
+  "hyprland/workspaces":{
+      "format": "󰄯",
+      // "window-rewrite": {
+      //    "title<.*youtube.*>": "", 
+      //    "class<firefox>": "", 
+      //    "class<firefox> title<.*github.*>": "",
+      //    "foot": "", 
+      //    "code": "󰨞",
+      //    "title<.* - (.*) - VSCodium>": "codium $1"  
+      // }
   }
+
+}
 
